@@ -1,14 +1,8 @@
-Vetted Literature Matrix & Critique Log
-
-Topic: [Insert Mindanao Development Topic]
-
-1. AI-Generated Literature Matrix
-
 Review and summarize the literature on the selected topic. Then compare the AI-generated findings against verified primary sources.
 
 AI-Generated Statement / Citation	Source Vetted Against	Status	Human Correction / Note
-[AI-generated claim]	[Journal, report, or official source]	✅ Verified / ❌ Hallucination / ⚠️ Partially Verified	[Correction or clarification]
-[AI-generated claim]	[Journal, report, or official source]	✅ Verified / ❌ Hallucination / ⚠️ Partially Verified	[Correction or clarification]
+[AI-generated claim]	[Journal, report, or official source]	verified / Hallucination / Partially Verified	[Correction or clarification]
+[AI-generated claim]	[Journal, report, or official source]	Verified / Hallucination / Partially Verified	[Correction or clarification]
 
 2. Critique Log
 
